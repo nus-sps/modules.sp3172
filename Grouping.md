@@ -1,0 +1,12 @@
+---
+label: Grouping
+layout: default
+icon: ":man-woman-girl-boy:"
+order: 80
+---
+
+# Grouping
+
+You can find details about your group on the SP3172 Admin Document on Google Sheets.
+
+[!embed](https://docs.google.com/spreadsheets/d/e/2PACX-1vTzBKI0Lhq4fygFTXvmPlUkmCPU71UEdanYEMQpgnFxpN_LkzLY95kHVQ5TclFCaeu_4l567TKhtDPn/pubhtml?gid=1298363115&amp;single=true&amp;widget=true&amp;headers=false&range=H1:S60)
