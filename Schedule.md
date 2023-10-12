@@ -14,19 +14,19 @@ description: "Schedule AY23/24"
 
 # Schedule
 
-| Week        | Header                                    | Header                                                    |
+| Week        | Deliverable                               | Header                                                    |
 |-------------|-------------------------------------------|-----------------------------------------------------------|
 |           1 |                                           |                                                           |
 |           2 |                                           |                                                           |
 |           3 |                                           |                                                           |
 |           4 |                                           |                                                           |
 |           5 |                                           |                                                           |
-|           6 |                                           |                                                           |
-| Recess week |                                           |                                                           |
-|           7 |                                           |                                                           |
+|           6 | Mock Presentation                         |                                                           |
+| Recess week | Mock Presentation                         |                                                           |
+|           7 | Student Learning Journal Submission       |                                                           |
 |           8 |                                           |                                                           |
 |           9 |                                           |                                                           |
 |          10 |                                           |                                                           |
 |          11 |                                           |                                                           |
-|          12 |                                           |                                                           |
-|          13 | SP3172 Congress                           |                                                           |
+|          12 | Report Submission, Viva Presentation      |                                                           |
+|          13 | Viva Presentation, SP3172 Congress        |                                                           |
