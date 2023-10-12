@@ -13,8 +13,6 @@ date: 2023-08-12T12:00
 
 # Downloads
 
-The notes for The Universe are also available for download.
-
 ## Header
 
 | Header       | Link                                                                                                    |
