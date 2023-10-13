@@ -1,0 +1,20 @@
+---
+label: SP3172 Congress
+layout: default
+icon: ":classical_building:"
+order: 800
+author:
+  - name: Dr Robert Lieu
+    email: dbslzz@nus.edu.sg
+    link: https://sps.nus.edu.sg/user/robert.lieu/
+    avatar: 
+date: 2023-10-13T12:00
+description: "SP3172 Congress"
+---
+
+![](</Resources/Congress_image.png>)
+
+# Details
+Each group will be allocated a 25-minute time slot, comprising of 15 minutes of presentation, 7 minutes of Q&A and 3 minutes of buffer time to set up the slides and to pack up after the entire presentation. 
+
+**All students should arrive punctually and attend the whole duration of SP3172 congress. Non-compliance will result in marks deduction on the overall SP3172 score.**
