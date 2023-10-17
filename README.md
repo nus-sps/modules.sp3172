@@ -6,7 +6,7 @@ icon: ":gem:"
 ---
 # Welcome!
 
-![](</Resources/Welcome_image.png>)
+![](</Resources/README/PosterPresentations2023.png>)
 
 Welcome to the homepage for SP3172: Integrated Science Project. 
 

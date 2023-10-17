@@ -12,7 +12,7 @@ date: 2023-10-13T12:00
 description: "SP3172 Congress"
 ---
 
-![](</Resources/Congress_image.png>)
+![](</Resources/SP3172 Congress/GroupPhoto2023.JPG>)
 
 # Details
 Each group will be allocated a 25-minute time slot, comprising of 15 minutes of presentation, 7 minutes of Q&A and 3 minutes of buffer time to set up the slides and to pack up after the entire presentation. 
