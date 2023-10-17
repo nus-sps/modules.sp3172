@@ -44,21 +44,21 @@ The SP3172 report should outline in detail all the choices made during the resea
 
 **Structure of the written report**
  
-Title: A specific statement that conveys the topic and conclusion of the paper. 
+**Title**: A specific statement that conveys the topic and conclusion of the paper. 
 
-Abstract: A complete summary of the paper designed for experts and non-experts. 
+**Abstract**: A complete summary of the paper designed for experts and non-experts. 
 
-Introduction: The beginning of a paper that transitions from a general background to a specific research question or goal. 
+**Introduction**: The beginning of a paper that transitions from a general background to a specific research question or goal. 
 
-Materials and Methods: A brief but detailed description about the tools and methods you used to perform experiments and analyse results. 
+**Materials and Methods**: A brief but detailed description about the tools and methods you used to perform experiments and analyse results. 
 
-Results: A presentation of all your experiments and data, represented both as text and in tables, charts, diagrams, and photographs. 
+**Results**: A presentation of all your experiments and data, represented both as text and in tables, charts, diagrams, and photographs. 
 
-Discussion: An opportunity to discuss your interpretation of your results and explore your findings within the context of the larger scientific record. 
+**Discussion**: An opportunity to discuss your interpretation of your results and explore your findings within the context of the larger scientific record. 
 
-References: Your citations. There is no specific style required, students can use either APA, or Harvard style of referencing. Once you have determined the method to follow, use it consistently in your report. 
+**References**: Your citations. There is no specific style required, students can use either APA, or Harvard style of referencing. Once you have determined the method to follow, use it consistently in your report. 
 
-Supplemental Material/appendix: Additional figures, videos, and elaboration on methods and computational analysis.
+**Supplemental Material/appendix**: Additional figures, videos, and elaboration on methods and computational analysis.
 
 ### Poster presentation (10%, group) 
 
@@ -70,18 +70,17 @@ During the viva, you will be required to answer questions regarding various aspe
 
 ### Final presentation (20%, individual) 
 
-Duration: Each group will be allocated a 25-minute time slot, comprising of 15 minutes of presentation, 7 minutes of Q&A and 3 minutes of buffer time to set up the slides and to pack up after the entire presentation. 
+**Duration**: Each group will be allocated a 25-minute time slot, comprising of 15 minutes of presentation, 7 minutes of Q&A and 3 minutes of buffer time to set up the slides and to pack up after the entire presentation. 
 
-Attendance: All students should arrive punctually and attend the whole duration of SP3172 congress. Non-compliance will result in marks deduction on the overall SP3172 score. 
+**Attendance**: All students should arrive punctually and attend the whole duration of SP3172 congress. Non-compliance will result in marks deduction on the overall SP3172 score. 
 
 ### Continual assessment (10%, individual) 
-
-Submission instructions 
+ 
 The Continual Assessment is a form of evaluation of the student’s contribution to the project work in the host PI lab and this is graded by the host laboratory PI. 
 
-Grading component: The CA grading includes general work attitudes (attendance, initiative and self-motivation), problem solving ability, presentation/communication of ideas, and data analysis during the duration of the project. Students are recommended to be consistently and actively involved in their project and maintain favourable group dynamics with other members of the group. 
+**Grading component**: The CA grading includes general work attitudes (attendance, initiative and self-motivation), problem solving ability, presentation/communication of ideas, and data analysis during the duration of the project. Students are recommended to be consistently and actively involved in their project and maintain favourable group dynamics with other members of the group. 
 
-Duration: The duration over which the continual assessment takes place will be the entire course of the project, from start to end. However, the actual grading of the continual assessment component will take place in the same week as the congress. 
+**Duration**: The duration over which the continual assessment takes place will be the entire course of the project, from start to end. However, the actual grading of the continual assessment component will take place in the same week as the congress. 
 
 ### Learning reflections (10%, individual) 
 
