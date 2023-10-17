@@ -7,7 +7,7 @@ author:
   - name: Ryan Phillips
     email: ryan.phillips21@nus.edu.sg
     link: https://sps.nus.edu.sg/user/ryan.phillips21/
-    avatar: 
+    avatar: https://sps.nus.edu.sg/wp-content/uploads/ultimatemember/232/profile_photo.jpg
 date: 2023-08-13T12:00
 ---
 

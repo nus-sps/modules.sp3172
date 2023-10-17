@@ -1,5 +1,5 @@
 ---
-label: SP3172 Congress
+label: Congress
 layout: default
 icon: ":classical_building:"
 order: 800
@@ -7,7 +7,7 @@ author:
   - name: Dr Robert Lieu
     email: dbslzz@nus.edu.sg
     link: https://sps.nus.edu.sg/user/robert.lieu/
-    avatar: 
+    avatar: https://sps.nus.edu.sg/wp-content/uploads/ultimatemember/53/profile_photo.jpg
 date: 2023-10-13T12:00
 description: "SP3172 Congress"
 ---
