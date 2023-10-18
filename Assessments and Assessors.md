@@ -24,7 +24,7 @@ e) 	Congress Grader 		[Graduate mentor who are not mentoring any group]
 *In the case that a group has more than one Staff Supervisor, the main Staff Supervisor will be the personnel grading.
 
 
-| Component / Assessor         | Project Staff Supervisor | SPS Instructor | Internal Mentor | External Mentor | Congress Graders |
+| Component                    | Project Staff Supervisor | SPS Instructor | Internal Mentor | External Mentor | Congress Graders |
 |------------------------------|:------------------------:|:--------------:|:---------------:|:---------------:|:----------------:|
 | Written Report               |:x:                       |:x:             |                 |:x:              |                  |
 | Poster Presentation          |:x:                       |                |                 |                 |:x:               |
