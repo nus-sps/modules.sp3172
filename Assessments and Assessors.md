@@ -16,7 +16,7 @@ description: "Assessments and Assessors"
 
 The components of SP3172 will be graded by the following assessors: 
 a) 	Project Staff Supervisor 	[Academic staff whose lab you are working at*] 
-b) 	SPS Instructor			[One of the SPS instructors / Professor Liou Yih- Cherng] 
+b) 	SPS Instructor			[One of the SPS instructors / Professor Liou Yih-Cherng] 
 c) 	Internal Mentor 		[Student / graduate mentor who is mentoring you] 
 d)	External Mentor 		[Student / graduate mentor] 
 e) 	Congress Grader 		[Graduate mentor who are not mentoring any group] 
