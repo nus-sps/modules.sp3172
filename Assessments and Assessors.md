@@ -72,7 +72,9 @@ During the viva, you will be required to answer questions regarding various aspe
 
 **Duration**: Each group will be allocated a 25-minute time slot, comprising of 15 minutes of presentation, 7 minutes of Q&A and 3 minutes of buffer time to set up the slides and to pack up after the entire presentation. 
 
-**Attendance**: All students should arrive punctually and attend the whole duration of SP3172 congress. Non-compliance will result in marks deduction on the overall SP3172 score. 
+!!!
+All students should arrive punctually and attend the whole duration of SP3172 congress. Non-compliance will result in marks deduction on the overall score. 
+!!!
 
 ### Continual assessment (10%, individual) 
  
