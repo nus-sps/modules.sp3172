@@ -13,8 +13,7 @@ date: 2023-08-12T12:00
 
 # Downloads
 
-## Header
-
 | Header       | Link                                                                                      |
 |--------------|-------------------------------------------------------------------------------------------|
 | Student Kit  | [Link](link)                                                                              |
+| SPS Archive  | [Link](https://sps.nus.edu.sg/archive/archived-works/)                                    |
