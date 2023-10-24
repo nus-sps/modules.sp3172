@@ -8,7 +8,7 @@ author:
     email: ryan.phillips21@nus.edu.sg
     link: https://sps.nus.edu.sg/user/ryan.phillips21/
     avatar: https://sps.nus.edu.sg/wp-content/uploads/ultimatemember/232/profile_photo.jpg
-date: 2023-08-13T12:00
+date: 2023-10-13T12:00
 ---
 
 | Canvas Course Code | Description                                                                |
