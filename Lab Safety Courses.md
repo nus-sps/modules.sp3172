@@ -11,8 +11,6 @@ author:
 date: 2023-08-13T12:00
 ---
 
-## Links to lab safety courses
-
 | Canvas Course Code | Description                                                                |
 |--------------------|----------------------------------------------------------------------------|
 | OSHBIO08           | [Biosafety for BSL-2 Laboratories](https://canvas.nus.edu.sg/courses/36140)|
