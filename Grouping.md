@@ -9,4 +9,4 @@ order: 80
 
 You can find details about your group on the SP3172 Admin Document on Google Sheets.
 
-[!embed](https://docs.google.com/spreadsheets/d/e/2PACX-1vTzBKI0Lhq4fygFTXvmPlUkmCPU71UEdanYEMQpgnFxpN_LkzLY95kHVQ5TclFCaeu_4l567TKhtDPn/pubhtml?gid=1298363115&amp;single=true&amp;widget=true&amp;headers=false&range=H1:S60)
+[!embed](https://docs.google.com/spreadsheets/d/e/2PACX-1vSHv4KCZbXr4iQ5Zgj3M4nx4Agn20vBvvb4OrnGFslpQwHVAudfAqLSAfEtpL_oybq18eaX4QCqslEY/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&range=A1:D53)
