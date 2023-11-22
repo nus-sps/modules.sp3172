@@ -30,7 +30,7 @@ e) 	Congress Grader 		[Graduate mentor who are not mentoring any group]
 | Poster Presentation          |:x:                       |                |                 |                 |:x:               |
 | Oral Presentation (Congress) |:x:                       |                |                 |                 |:x:               |
 | Oral Viva Examination        |:x:                       |:x:             |                 |:x:              |                  |
-| Learning Reflections         |                          |                |:x:              |                 |                  |
+| Mid Semester Presentation    |                          |:x:             |                 |                 |                  |
 | Continuous Assessment        |:x:                       |                |                 |                 |                  |
 
 Note: the information given is subject to changes
@@ -84,17 +84,10 @@ The Continual Assessment is a form of evaluation of the student’s contribution
 
 **Duration**: The duration over which the continual assessment takes place will be the entire course of the project, from start to end. However, the actual grading of the continual assessment component will take place in the same week as the congress. 
 
-### Learning reflections (10%, individual) 
+### Mid Semester Abstract/Presentation (10%, group) 
 
-Each group should reflect at regular intervals on their learning, progress and any difficulties faced during the duration of the semester. Learning reflections will be assessed and graded by your internal mentor only. There is no page limit or word limit. This will be done on a google word document, following the template as assigned by the module coordinator. 
+!!! 
+Information provided is subject to changes
+!!!
 
-There is no fixed format for your learning reflections, but groups are encouraged to discuss some of these points: 
-1. Your perceptions of the research work and the content. 
-2. Any problem that you encounter in your research work and how you decide to resolve it? 
-3. Any questions you might have. 
-4. Experiences, ideas and observations you have had, and how they relate to the course or topic. 
-5. What you found confusing, inspiring, difficult, interesting and why. 
-6. Possibilities, speculations, hypotheses or solutions. 
-7. Alternative interpretations or different perspectives on what you have read or done in your course. 
-8. How new ideas challenge what you already know. 
-9. What you need to explore next in terms of thoughts and actions. 
+The purpose of the mid semester presentations are for students to practice scientific communication via writing an abstract and speaking to an audience about their research project. Presentations will be assessed using the same rubrics meant for the final Oral Presentation to give students a gauge of their work and to receive feedback. Further details will be provided later in the semester.
