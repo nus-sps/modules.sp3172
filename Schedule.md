@@ -22,9 +22,9 @@ description: "Schedule AY23/24"
 |           3 |                                           |                                                                  |
 |           4 |                                           |                                                                  |
 |           5 |                                           |                                                                  |
-|           6 | Mock Presentation                         |                                                                  |
-| Recess week | Mock Presentation                         |                                                                  |
-|           7 | Student Learning Journal Submission       |                                                                  |
+|           6 | Mid Sem Presentation                      |                                                                  |
+| Recess week | Mid Sem Presentation                      |                                                                  |
+|           7 |                                           |                                                                  |
 |           8 |                                           |                                                                  |
 |           9 |                                           |                                                                  |
 |          10 |                                           |                                                                  |
