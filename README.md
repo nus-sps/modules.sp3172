@@ -26,9 +26,9 @@ At the end of the module, the student should be able to:
 |------------------------------|---------------------------|
 | Written Report               | 30% (Group)               |
 | Poster Presentation          | 10% (Group)               |
+| Mid Semester Presentation    | 10% (Group)               |
 | Oral Presentation (Congress) | 20% (Individual)          |
-| Oral Viva Examination        | 15% (Individual)          |
-| Learning Reflections         | 15% (Individual)          |
+| Oral Viva Examination        | 20% (Individual)          |
 | Continuous Assessment        | 10% (Individual)          |
 
 Note: the information given is subject to changes
