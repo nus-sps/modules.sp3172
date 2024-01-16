@@ -21,7 +21,7 @@ description: "Schedule AY23/24"
 |           2 |                                           |                                                                  |
 |           3 |                                           |                                                                  |
 |           4 |                                           |                                                                  |
-|           5 |                                           |                                                                  |
+|           5 |                                           | Scientific Communication Workshop                                |
 |           6 | Mid Sem Presentation                      |                                                                  |
 | Recess week | Mid Sem Presentation                      |                                                                  |
 |           7 |                                           |                                                                  |
@@ -29,7 +29,7 @@ description: "Schedule AY23/24"
 |           9 |                                           |                                                                  |
 |          10 |                                           |                                                                  |
 |          11 |                                           |                                                                  |
-|          12 | Report Submission, Viva Presentation      | Report due Monday 1200hr, Contact graders to arrange viva timing |
+|          12 | Report Submission, Viva Presentation      | Report due Monday 1200hr, contact graders to arrange viva timing |
 |          13 | Viva Presentation, SP3172 Congress        | Contact graders to arrange viva timing                           |
 
 Note: the information given is subject to changes
