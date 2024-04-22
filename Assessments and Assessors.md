@@ -27,7 +27,7 @@ e) 	Congress Grader 		[Graduate mentor who are not mentoring any group]
 | Component                    | Project Staff Supervisor | SPS Instructor | Internal Mentor | External Mentor | Congress Graders |
 |------------------------------|:------------------------:|:--------------:|:---------------:|:---------------:|:----------------:|
 | Written Report               |:x:                       |:x:             |                 |:x:              |                  |
-| Poster Presentation          |:x:                       |                |                 |                 |:x:               |
+| Poster Presentation          |                          |                |                 |                 |:x:               |
 | Oral Presentation (Congress) |:x:                       |                |                 |                 |:x:               |
 | Oral Viva Examination        |:x:                       |:x:             |                 |:x:              |                  |
 | Mid Semester Presentation    |                          |:x:             |                 |                 |                  |
