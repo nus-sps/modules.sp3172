@@ -28,9 +28,9 @@ e) 	Congress Grader 		[Graduate mentor who are not mentoring any group]
 |------------------------------|:------------------------:|:--------------:|:---------------:|:---------------:|:----------------:|
 | Written Report               |:x:                       |:x:             |                 |:x:              |                  |
 | Poster Presentation          |                          |                |                 |                 |:x:               |
+| Mid Semester Abstract/Presentation |                    |:x:             |                 |                 |                  |
 | Oral Presentation (Congress) |:x:                       |                |                 |                 |:x:               |
 | Oral Viva Examination        |:x:                       |:x:             |                 |:x:              |                  |
-| Mid Semester Abstract/Presentation    |                          |:x:             |                 |                 |                  |
 | Continuous Assessment        |:x:                       |                |                 |                 |                  |
 
 Note: the information given is subject to changes
@@ -40,7 +40,7 @@ Note: the information given is subject to changes
 ## Assessment Details
 
 ### Written Report
-> #### *30% | Group*
+> #### *30%* | *Group*
 
 The SP3172 report should outline in detail all the choices made during the research process and why, as well as the outcomes of each phase of the research process. It should not be merely factual or explanatory; but rather interpretive and persuasive in nature. It should be the goal of the writer to use acceptable academic reasoning and argumentation to persuade the audience that your choice of experiments, results and conclusions are relevant to, and appropriate within the context of the main theme you have chosen. Furthermore, the research process must be described in sufficient detail to allow other researchers to replicate your study, test the findings, or assess whether the conclusion derived are scientifically acceptable. The written report should be accessible to a broad audience of scientists who may not be from the same field of research. 
 
@@ -63,12 +63,21 @@ The SP3172 report should outline in detail all the choices made during the resea
 **Supplemental Material/appendix**: Additional figures, videos, and elaboration on methods and computational analysis.
 
 ### Poster Presentation
-> #### *10% | Group*
+> #### *10%* | *Group*
 
-The purpose of a scientific poster is to visually present a summary of your research that complements your interactions with other SPS students or examiner during a poster session. Similar to slides in your presentation, a poster is a visual aid that supports your oral communication of information.
+The purpose of a scientific poster is to visually present a summary of your research that complements your interactions with other SPS students or examiner during a poster session. Similar to slides in your presentation, a poster is a visual aid that supports your oral communication of information. 
+
+### Mid Semester Abstract/Presentation
+> #### *10%* | *Group*
+
+!!! 
+Information provided is subject to change
+!!!
+
+The purpose of the mid semester presentations are for students to practice scientific communication via writing an abstract and speaking to an audience about their research project. Presentations will be assessed using the same rubrics meant for the final Oral Presentation to give students a gauge of their work and to receive feedback. Further details will be provided later in the semester.
 
 ### Oral Presentation (Congress)
-> #### *20% | Individual*
+> #### *20%* | *Individual*
 
 **Duration**: Each group will be allocated a 25-minute time slot, comprising of 15 minutes of presentation, 7 minutes of Q&A and 3 minutes of buffer time to set up the slides and to pack up after the entire presentation. 
 
@@ -77,24 +86,15 @@ All students should arrive punctually and attend the whole duration of SP3172 co
 !!! 
  
 ### Oral Viva Examination
-> #### *20% | Individual*
+#### *20%* | *Individual*
 
 During the viva, you will be required to answer questions regarding various aspects of your project. Students will be graded on the clarity of explanations and their understanding of the project. Each student will be assessed individually for the Viva. 
 
 ### Continuous Assessment 
-> #### *10% | Individual*
+#### *10%* | *Individual*
 
 The Continuous Assessment is an evaluation of the student’s contribution to the project work in the host PI lab. It is is graded by the host laboratory PI. 
 
 **Grading component**: The CA grading includes general work attitudes (attendance, initiative and self-motivation), problem solving ability, presentation/communication of ideas, and data analysis during the duration of the project. Students are recommended to be consistently and actively involved in their project and maintain favourable group dynamics with other members of the group. 
 
-**Duration**: The duration over which the continual assessment takes place will be the entire course of the project, from start to end. However, the actual grading of the continual assessment component will take place in the same week as the congress. 
-
-### Mid Semester Abstract/Presentation
-> #### *10% | Group*
-
-!!! 
-Information provided is subject to changes
-!!!
-
-The purpose of the mid semester presentations are for students to practice scientific communication via writing an abstract and speaking to an audience about their research project. Presentations will be assessed using the same rubrics meant for the final Oral Presentation to give students a gauge of their work and to receive feedback. Further details will be provided later in the semester.
+**Duration**: The duration over which the continual assessment takes place will be the entire course of the project, from start to end. However, the actual grading of the continual assessment component will take place in the same week as the congress.
