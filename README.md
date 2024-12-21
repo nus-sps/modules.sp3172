@@ -22,16 +22,13 @@ At the end of the module, the student should be able to:
 
 ## Course Weightage
 
-| Component                    | Weightage                 | Basis       |
-|------------------------------|---------------------------|-------------|
-| Written Report               | 30%                       | Group       |
-| Poster Presentation          | 10%                       | Group       |
-| Mid Semester Presentation and Abstract    | 10%          | Group       |
-| Oral Presentation (Congress) | 20%                       | Individual  |
-| Oral Viva Examination        | 20%                       | Individual  |
-| Continuous Assessment        | 10%                       | Individual  |
-
-## Further Information
-For more details on this specific of SP3172 for AY24/25, the course briefing slide deck may be accessed at [this link](https://docs.google.com/presentation/d/1J_vL0HTO1LH4kbB-JQDitME_0KParrxA2i6tp-cAmPw/edit?usp=sharing).
+| Component                    | Weightage                 |
+|------------------------------|---------------------------|
+| Written Report               | 30% (Group)               |
+| Poster Presentation          | 10% (Group)               |
+| Mid Semester Presentation    | 10% (Group)               |
+| Oral Presentation (Congress) | 20% (Individual)          |
+| Oral Viva Examination        | 20% (Individual)          |
+| Continuous Assessment        | 10% (Individual)          |
 
 Note: the information given is subject to changes
