@@ -8,7 +8,7 @@ author:
     email: dbslzz@nus.edu.sg
     link: https://sps.nus.edu.sg/user/robert.lieu/
     avatar: https://sps.nus.edu.sg/wp-content/uploads/ultimatemember/53/profile_photo.jpg
-date: 2023-10-13T12:00
+date: 2024-12-13T12:00
 description: "Assessments and Assessors"
 ---
 
@@ -60,7 +60,7 @@ The SP3172 report should outline in detail all the choices made during the resea
 
 **Supplemental Material/appendix**: Additional figures, videos, and elaboration on methods and computational analysis.
 
-### Poster presentation (10%, group) 
+### Poster Presentation (10%, group) 
 
 The purpose of a scientific poster is to visually present a summary of your research that complements your interactions with other SPS students or examiner during a poster session. Similar to slides in your presentation, a poster is a visual aid that supports your oral communication of information. 
  
@@ -68,7 +68,7 @@ The purpose of a scientific poster is to visually present a summary of your rese
 
 During the viva, you will be required to answer questions regarding various aspects of your project. Students will be graded on the clarity of explanations and their understanding of the project. Each student will be assessed individually for the Viva. 
 
-### Final presentation (20%, individual) 
+### Final Presentation (20%, individual) 
 
 **Duration**: Each group will be allocated a 25-minute time slot, comprising of 15 minutes of presentation, 7 minutes of Q&A and 3 minutes of buffer time to set up the slides and to pack up after the entire presentation. 
 
@@ -76,7 +76,7 @@ During the viva, you will be required to answer questions regarding various aspe
 All students should arrive punctually and attend the whole duration of SP3172 congress. Non-compliance will result in marks deduction on the overall score. 
 !!!
 
-### Continual assessment (10%, individual) 
+### Continual Assessment (10%, individual) 
  
 The Continual Assessment is a form of evaluation of the student’s contribution to the project work in the host PI lab and this is graded by the host laboratory PI. 
 
