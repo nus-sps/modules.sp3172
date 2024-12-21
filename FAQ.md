@@ -1,3 +1,10 @@
+---
+label: FAQ
+layout: default
+order: 800
+icon: ":thinking_face:"
+---
+
 # FAQ
 
 ## Does the amount of data determine the success of a research project?
