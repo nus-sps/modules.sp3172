@@ -40,7 +40,7 @@ Note: the information given is subject to changes
 ## Assessment Details
 
 ### Written Report
-> #### *30%* | *Group*
+#### *30%* | *Group*
 
 The SP3172 report should outline in detail all the choices made during the research process and why, as well as the outcomes of each phase of the research process. It should not be merely factual or explanatory; but rather interpretive and persuasive in nature. It should be the goal of the writer to use acceptable academic reasoning and argumentation to persuade the audience that your choice of experiments, results and conclusions are relevant to, and appropriate within the context of the main theme you have chosen. Furthermore, the research process must be described in sufficient detail to allow other researchers to replicate your study, test the findings, or assess whether the conclusion derived are scientifically acceptable. The written report should be accessible to a broad audience of scientists who may not be from the same field of research. 
 
@@ -63,12 +63,12 @@ The SP3172 report should outline in detail all the choices made during the resea
 **Supplemental Material/appendix**: Additional figures, videos, and elaboration on methods and computational analysis.
 
 ### Poster Presentation
-> #### *10%* | *Group*
+#### *10%* | *Group*
 
 The purpose of a scientific poster is to visually present a summary of your research that complements your interactions with other SPS students or examiner during a poster session. Similar to slides in your presentation, a poster is a visual aid that supports your oral communication of information. 
 
 ### Mid Semester Abstract/Presentation
-> #### *10%* | *Group*
+#### *10%* | *Group*
 
 !!! 
 Information provided is subject to change
@@ -77,7 +77,7 @@ Information provided is subject to change
 The purpose of the mid semester presentations are for students to practice scientific communication via writing an abstract and speaking to an audience about their research project. Presentations will be assessed using the same rubrics meant for the final Oral Presentation to give students a gauge of their work and to receive feedback. Further details will be provided later in the semester.
 
 ### Oral Presentation (Congress)
-> #### *20%* | *Individual*
+#### *20%* | *Individual*
 
 **Duration**: Each group will be allocated a 25-minute time slot, comprising of 15 minutes of presentation, 7 minutes of Q&A and 3 minutes of buffer time to set up the slides and to pack up after the entire presentation. 
 
