@@ -8,7 +8,7 @@ author:
     email: dbslzz@nus.edu.sg
     link: https://sps.nus.edu.sg/user/robert.lieu/
     avatar: https://sps.nus.edu.sg/wp-content/uploads/ultimatemember/53/profile_photo.jpg
-date: 2023-10-13T12:00
+date: 2024-12-21T12:00
 description: "Assessments and Assessors"
 ---
 
@@ -30,7 +30,7 @@ e) 	Congress Grader 		[Graduate mentor who are not mentoring any group]
 | Poster Presentation          |                          |                |                 |                 |:x:               |
 | Oral Presentation (Congress) |:x:                       |                |                 |                 |:x:               |
 | Oral Viva Examination        |:x:                       |:x:             |                 |:x:              |                  |
-| Mid Semester Presentation    |                          |:x:             |                 |                 |                  |
+| Mid Semester Abstract/Presentation    |                          |:x:             |                 |                 |                  |
 | Continuous Assessment        |:x:                       |                |                 |                 |                  |
 
 Note: the information given is subject to changes
@@ -39,10 +39,12 @@ Note: the information given is subject to changes
 
 ## Assessment Details
 
-### Written Report (30%, group) 
+### Written Report
+> #### *30% | Group*
+
 The SP3172 report should outline in detail all the choices made during the research process and why, as well as the outcomes of each phase of the research process. It should not be merely factual or explanatory; but rather interpretive and persuasive in nature. It should be the goal of the writer to use acceptable academic reasoning and argumentation to persuade the audience that your choice of experiments, results and conclusions are relevant to, and appropriate within the context of the main theme you have chosen. Furthermore, the research process must be described in sufficient detail to allow other researchers to replicate your study, test the findings, or assess whether the conclusion derived are scientifically acceptable. The written report should be accessible to a broad audience of scientists who may not be from the same field of research. 
 
-**Structure of the written report**
+**Structure of the Written Report**
  
 **Title**: A specific statement that conveys the topic and conclusion of the paper. 
 
@@ -60,31 +62,36 @@ The SP3172 report should outline in detail all the choices made during the resea
 
 **Supplemental Material/appendix**: Additional figures, videos, and elaboration on methods and computational analysis.
 
-### Poster presentation (10%, group) 
+### Poster Presentation
+> #### *10% | Group*
 
-The purpose of a scientific poster is to visually present a summary of your research that complements your interactions with other SPS students or examiner during a poster session. Similar to slides in your presentation, a poster is a visual aid that supports your oral communication of information. 
- 
-### Oral Viva (20%, individual) 
+The purpose of a scientific poster is to visually present a summary of your research that complements your interactions with other SPS students or examiner during a poster session. Similar to slides in your presentation, a poster is a visual aid that supports your oral communication of information.
 
-During the viva, you will be required to answer questions regarding various aspects of your project. Students will be graded on the clarity of explanations and their understanding of the project. Each student will be assessed individually for the Viva. 
-
-### Final presentation (20%, individual) 
+### Oral Presentation (Congress)
+> #### *20% | Individual*
 
 **Duration**: Each group will be allocated a 25-minute time slot, comprising of 15 minutes of presentation, 7 minutes of Q&A and 3 minutes of buffer time to set up the slides and to pack up after the entire presentation. 
 
 !!!
 All students should arrive punctually and attend the whole duration of SP3172 congress. Non-compliance will result in marks deduction on the overall score. 
-!!!
+!!! 
+ 
+### Oral Viva Examination
+> #### *20% | Individual*
 
-### Continual assessment (10%, individual) 
- 
-The Continual Assessment is a form of evaluation of the student’s contribution to the project work in the host PI lab and this is graded by the host laboratory PI. 
+During the viva, you will be required to answer questions regarding various aspects of your project. Students will be graded on the clarity of explanations and their understanding of the project. Each student will be assessed individually for the Viva. 
+
+### Continuous Assessment 
+> #### *10% | Individual*
+
+The Continuous Assessment is an evaluation of the student’s contribution to the project work in the host PI lab. It is is graded by the host laboratory PI. 
 
 **Grading component**: The CA grading includes general work attitudes (attendance, initiative and self-motivation), problem solving ability, presentation/communication of ideas, and data analysis during the duration of the project. Students are recommended to be consistently and actively involved in their project and maintain favourable group dynamics with other members of the group. 
 
 **Duration**: The duration over which the continual assessment takes place will be the entire course of the project, from start to end. However, the actual grading of the continual assessment component will take place in the same week as the congress. 
 
-### Mid Semester Abstract/Presentation (10%, group) 
+### Mid Semester Abstract/Presentation
+> #### *10% | Group*
 
 !!! 
 Information provided is subject to changes
