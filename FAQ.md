@@ -1,10 +1,10 @@
 ---
 label: FAQ
 layout: default
-order: 800
+order: -1000
 icon: ":thinking_face:"
 date: 2024-12-21T12:00
-description: "Schedule AY23/24"
+description: "FAQ"
 ---
 
 # FAQ
