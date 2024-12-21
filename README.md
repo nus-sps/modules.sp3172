@@ -34,6 +34,6 @@ At the end of the module, the student should be able to:
 ## Further Information
 For more details on SP3172 for AY24/25, the [course briefing slide deck](https://docs.google.com/presentation/d/1J_vL0HTO1LH4kbB-JQDitME_0KParrxA2i6tp-cAmPw/edit?usp=sharing) may be referenced.
 
-The [official course page on NUS CANVAS](https://github.com/nus-sps/work-requests/issues/35#:~:text=https%3A//canvas.nus.edu.sg/courses/73033%3Ffor_reload%3D1) may also be accessed for announcements and specific information.
+The [official course page on NUS CANVAS](https%3A//canvas.nus.edu.sg/courses/73033%3Ffor_reload%3D1) may also be accessed for announcements and specific information.
 
 Note: the information given is subject to changes
