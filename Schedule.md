@@ -22,9 +22,9 @@ description: "Schedule AY24/25"
 |           3 |                                           |                                                                  |
 |           4 |                                           |                                                                  |
 |           5 |                                           |                                                                  |
-|           6 | Mid Sem Abstract, Mid Sem Presentation    | Abstract and presentation deadlines to be determined             |
+|           6 | Mid Sem Presentation                      |                                                                  |
 | Recess week |                                           |                                                                  |
-|           7 |                                           |                                                                  |
+|           7 | Mid Sem Presentation, Mid Sem Abstract    |                                                                  |
 |           8 |                                           |                                                                  |
 |           9 |                                           |                                                                  |
 |          10 |                                           |                                                                  |
