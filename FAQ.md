@@ -33,5 +33,5 @@ The minimum commitment expected of all SP3172 mentors are as follows:
   * 1 Congress Slides Draft + Presentation Practice
 
 ## Who are the graders for my SP3172 project?
-* Go to the (SP3172 CANVAS page](https://canvas.nus.edu.sg/courses/73033?for_reload=1) -> About the course -> Important course date and assessment
+* Go to the [SP3172 CANVAS page](https://canvas.nus.edu.sg/courses/73033?for_reload=1) -> About the course -> Important course date and assessment
 * You will be notified of your SP3172 project graders at the end of Week 11
