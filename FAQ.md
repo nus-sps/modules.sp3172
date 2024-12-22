@@ -16,7 +16,7 @@ description: "FAQ"
 * Grading is dependent on your group hitting the criteria in the grading rubrics
 
 ## Where can I find the grading rubrics for the various SP3172 deliverables?
-* They can be found on the SP3172 CANVAS page, under the Assignment module
+* They can be found on the [SP3172 CANVAS page](https://canvas.nus.edu.sg/courses/73033?for_reload=1), under the Assignment module
    * Scroll down to the end of the assignment instructions to see the rubric
 * There are different rubrics for each assessment!
 
@@ -33,5 +33,5 @@ The minimum commitment expected of all SP3172 mentors are as follows:
   * 1 Congress Slides Draft + Presentation Practice
 
 ## Who are the graders for my SP3172 project?
-* Go to SP3172 CANVAS page -> About the course -> Important course date and assessment
+* Go to the (SP3172 CANVAS page](https://canvas.nus.edu.sg/courses/73033?for_reload=1) -> About the course -> Important course date and assessment
 * You will be notified of your SP3172 project graders at the end of Week 11
