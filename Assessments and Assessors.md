@@ -24,14 +24,14 @@ e) 	Congress Grader 		[Graduate mentor who are not mentoring any group]
 *In the case that a group has more than one Staff Supervisor, the main Staff Supervisor will be the personnel grading.
 
 
-| Component                    | Project Staff Supervisor | SPS Instructor | Internal Mentor | External Mentor | Congress Graders |
-|------------------------------|:------------------------:|:--------------:|:---------------:|:---------------:|:----------------:|
-| Written Report               |:x:                       |:x:             |                 |:x:              |                  |
-| Poster Presentation          |                          |                |                 |                 |:x:               |
-| Mid Semester Abstract/Presentation |                    |:x:             |                 |                 |                  |
-| Oral Presentation (Congress) |:x:                       |                |                 |                 |:x:               |
-| Oral Viva Examination        |:x:                       |:x:             |                 |:x:              |                  |
-| Continuous Assessment        |:x:                       |                |                 |                 |                  |
+| Component                          | Project Staff Supervisor | SPS Instructor | Internal Mentor | External Mentor | Congress Graders |
+|------------------------------------|:------------------------:|:-----------------:|:---------------:|:---------------:|:----------------:|
+| Written Report                     |:heavy_check_mark:        |:heavy_check_mark: |                 |:heavy_check_mark:|                 |
+| Poster Presentation                |                          |                   |                 |                 |:heavy_check_mark:|
+| Mid Semester Abstract/Presentation |                          |:heavy_check_mark: |                 |                 |                  |
+| Oral Presentation (Congress)       |:heavy_check_mark:        |                   |                 |                 |:heavy_check_mark:|
+| Oral Viva Examination              |:heavy_check_mark:        |:heavy_check_mark: |                |:heavy_check_mark:|                  |
+| Continuous Assessment              |:heavy_check_mark:        |                   |                 |                 |                  |
 
 Note: the information given is subject to changes
 
@@ -74,15 +74,17 @@ The purpose of a scientific poster is to visually present a summary of your rese
 Information provided is subject to change
 !!!
 
-The purpose of the mid semester presentations are for students to practice scientific communication via writing an abstract and speaking to an audience about their research project. Presentations will be assessed using the same rubrics meant for the final Oral Presentation to give students a gauge of their work and to receive feedback. Further details will be provided later in the semester.
+The purpose of the Mid Semester Abstract/Presentation is for students to practice scientific communication via writing an abstract and speaking to an audience about their research project. Presentations will be assessed using the same rubrics meant for the final Oral Presentation to give students a gauge of their work and to receive feedback. 
+
+Further details will be provided later in the semester.
 
 ### Oral Presentation (Congress)
 #### *20%* | *Individual*
 
-**Duration**: Each group will be allocated a 25-minute time slot, comprising of 15 minutes of presentation, 7 minutes of Q&A and 3 minutes of buffer time to set up the slides and to pack up after the entire presentation. 
+**Duration**: Each group will be allocated a 20-minute time slot, comprising of the presentation itself, Q&A and buffer time to set up the slides and to pack up after the entire presentation. 
 
 !!!
-All students should arrive punctually and attend the whole duration of SP3172 congress. Non-compliance will result in marks deduction on the overall score. 
+All students should arrive punctually and attend the whole duration of SP3172 Congress. Non-compliance will result in marks deduction on the overall score. 
 !!! 
  
 ### Oral Viva Examination
@@ -95,6 +97,6 @@ During the viva, you will be required to answer questions regarding various aspe
 
 The Continuous Assessment is an evaluation of the student’s contribution to the project work in the host PI lab. It is is graded by the host laboratory PI. 
 
-**Grading component**: The CA grading includes general work attitudes (attendance, initiative and self-motivation), problem solving ability, presentation/communication of ideas, and data analysis during the duration of the project. Students are recommended to be consistently and actively involved in their project and maintain favourable group dynamics with other members of the group. 
+**Grading Component**: The CA grading includes general work attitudes (attendance, initiative and self-motivation), problem solving ability, presentation/communication of ideas, and data analysis during the duration of the project. Students are recommended to be consistently and actively involved in their project and maintain favourable group dynamics with other members of the group. 
 
-**Duration**: The duration over which the continual assessment takes place will be the entire course of the project, from start to end. However, the actual grading of the continual assessment component will take place in the same week as the congress.
+**Duration**: The duration over which the CA takes place will be the entire course of the project, from start to end. However, the actual grading of the CA component will take place in the same week as the congress.
