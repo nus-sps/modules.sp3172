@@ -32,9 +32,9 @@ At the end of the module, the student should be able to:
 | Continuous Assessment        | 10%                       | Individual  |
 
 ## Further Information
-For more details on SP3172 for AY24/25, the [course briefing slide deck](https://docs.google.com/presentation/d/1J_vL0HTO1LH4kbB-JQDitME_0KParrxA2i6tp-cAmPw/edit?usp=sharing) may be referenced.
+For more details on SP3172 for AY24/25, the [course briefing slide deck](https://docs.google.com/presentation/d/1J_vL0HTO1LH4kbB-JQDitME_0KParrxA2i6tp-cAmPw/edit?usp=sharing) may be referenced. The slide deck for AY25/26 will be uploaded after the course briefing in Week 0.
 
-The [official course page on NUS CANVAS](https://canvas.nus.edu.sg/courses/73033?for_reload=1) may also be accessed for announcements and specific information.
+The [official course page on NUS CANVAS](https://canvas.nus.edu.sg/courses/88628) may also be accessed for announcements and specific information.
 
 !!!
 Note: the information given is subject to change
