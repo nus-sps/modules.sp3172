@@ -8,12 +8,12 @@ author:
     email: dbslzz@nus.edu.sg
     link: https://sps.nus.edu.sg/user/robert.lieu/
     avatar: https://sps.nus.edu.sg/wp-content/uploads/ultimatemember/53/profile_photo.jpg
-date: 2024-12-21T12:00
+date: 2025-12-16T12:00
 ---
 
 # Downloads
 
 | Header       | Link                                                                                      |
 |--------------|-------------------------------------------------------------------------------------------|
-| Student Kit  | ~~[Link](link)~~ [WIP]                                                                    |
+| Student Kit  | [Link](https://docs.google.com/document/d/19u32pMRG1-aeo9NHfORPHnqv1VGisNjO/view)         |
 | SPS Archive  | [Link](https://sps.nus.edu.sg/archive/archived-works/)                                    |
