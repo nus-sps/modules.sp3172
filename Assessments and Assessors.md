@@ -81,7 +81,7 @@ Further details will be provided later in the semester.
 ### Oral Presentation (Congress)
 #### *20%* | *Individual*
 
-**Duration**: Each group will be allocated a 20-minute time slot, comprising of the presentation itself, Q&A and buffer time to set up the slides and to pack up after the entire presentation. 
+**Duration**: Each group will be allocated a 15-minute time slot, comprising of the presentation itself, Q&A and buffer time to set up the slides and to pack up after the entire presentation. 
 
 !!!
 All students should arrive punctually and attend the whole duration of SP3172 Congress. Non-compliance will result in marks deduction on the overall score. 
