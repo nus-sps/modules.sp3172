@@ -1,0 +1,13 @@
+﻿# Welcome!
+
+> Welcome to the homepage for SP3172: Integrated Science Project.
+
+- [Welcome!](https://nus-sps.github.io/modules.sp3172/readme.md): Welcome!
+- [Schedule](https://nus-sps.github.io/modules.sp3172/schedule.md): Schedule AY25/26
+- [Assessments and Assessors](https://nus-sps.github.io/modules.sp3172/assessments-and-assessors.md): Assessments and Assessors
+- [Congress Details](https://nus-sps.github.io/modules.sp3172/sp3172-congress.md): SP3172 Congress
+- [Grouping](https://nus-sps.github.io/modules.sp3172/grouping.md): You can find details about your group on the SP3172 Admin Document on Google Sheets.
+- [Standard Operating Procedures](https://nus-sps.github.io/modules.sp3172/sops.md): SOPs for updating website from PDF.
+- [Downloads](https://nus-sps.github.io/modules.sp3172/downloads.md): Header
+- [Lab Safety Courses](https://nus-sps.github.io/modules.sp3172/lab-safety-courses.md): Canvas Course Code
+- [FAQ](https://nus-sps.github.io/modules.sp3172/faq.md): FAQ
