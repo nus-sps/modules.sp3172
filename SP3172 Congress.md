@@ -13,7 +13,7 @@ description: "SP3172 Congress"
 ---
 # Congress Details
 
-![](</Resources/SP3172 Congress/GroupPhoto2025.JPG>)
+![](</Resources/SP3172 Congress/GroupPhoto2026.JPG>)
 
 Each group will be allocated a 15-minute time slot, comprising of the presentation itself, Q&A and buffer time to set up the slides and to pack up after the entire presentation.
 
